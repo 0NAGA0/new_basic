@@ -7,7 +7,7 @@ int main(void)
 	
 	int x=10;
 	int y=30;
-	
+	int z=20;
 	
 	
 	
